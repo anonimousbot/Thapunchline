@@ -1,0 +1,6 @@
+{
+  "name": "ThaPunchLine Apartments and Hotels",
+  "description": "Premium boutique hotel rooms and serviced apartments in Ikeja, Lagos. Comfort that hits different.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
